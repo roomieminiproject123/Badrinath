@@ -1,0 +1,10 @@
+.Navbar:hover{
+    font-weight: 900;
+}
+.Location{
+    background-image: url('./L3.jfif');
+    position: left;
+    padding-left: 30px;
+    background-size: 30px;
+    background-repeat: no-repeat;
+} 
